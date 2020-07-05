@@ -7,13 +7,11 @@ gostack-fundamentals-reactjs" src="https://repository-images.githubusercontent.c
 <p align="center">
 
   <a href="LICENSE" style="text-decoration: none">
-    <img alt="License" src="https://img.shields.io/github/license/ailtoneric/
-gostack-fundamentals-reactjs" />
+    <img alt="License" src="https://img.shields.io/github/license/ailtoneric/gostack-fundamentals-reactjs" />
   </a>
 
   <a href="#" style="text-decoration: none">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ailtoneric/
-gostack-fundamentals-reactjs" />
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ailtoneric/gostack-fundamentals-reactjs" />
   </a>
 
 </p>
